@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_tugas/static/css/main.b82672e9.css",
+    "main.js": "/react_tugas/static/js/main.364b92e7.js",
+    "static/js/787.06e0866d.chunk.js": "/react_tugas/static/js/787.06e0866d.chunk.js",
+    "static/media/kinanti.png": "/react_tugas/static/media/kinanti.3c76a3603db73dcc7958.png",
+    "static/media/img.jpg": "/react_tugas/static/media/img.c02d1c758caa4989c54c.jpg",
+    "static/media/profil.jpg": "/react_tugas/static/media/profil.30370eab5691708f76e3.jpg",
+    "index.html": "/react_tugas/index.html",
+    "main.b82672e9.css.map": "/react_tugas/static/css/main.b82672e9.css.map",
+    "main.364b92e7.js.map": "/react_tugas/static/js/main.364b92e7.js.map",
+    "787.06e0866d.chunk.js.map": "/react_tugas/static/js/787.06e0866d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b82672e9.css",
+    "static/js/main.364b92e7.js"
+  ]
+}
